@@ -9,3 +9,6 @@
 #### Khác
 - Nên dùng State Pattern hay FSM cho dễ mở rộng, thay vì action bị giới giạn
 - Có thể dùng Factory Pattern để tạo Items
+
+#### Video quay màn hình quá trình làm Part 2
+https://drive.google.com/file/d/1Sr3t0qREAhmLwTQWmly8fW6Evxfl9-wj/view?usp=drive_link
